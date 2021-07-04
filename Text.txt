@@ -2,3 +2,5 @@ Just a couple of lines
 To test
 Looks like it works
 but still there are some doubts
+
+AFTER COMMIT
