@@ -8,3 +8,5 @@ Really?
 
 Trying to merge
 Nope
+
+Provoking conflict
